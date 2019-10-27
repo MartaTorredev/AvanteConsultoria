@@ -4,8 +4,6 @@
 AvanteConsultoría website where it presents its services
 
 
-Informative web design and development
-
 ##Description
 
 avanteconsultoria website where it presents its services
